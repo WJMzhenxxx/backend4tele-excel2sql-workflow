@@ -2,6 +2,7 @@ requirements:
 postgres
 
 mv .env.sample .env
+
 change your db info in .env
 
 run with:
